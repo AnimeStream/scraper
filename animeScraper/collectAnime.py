@@ -1,17 +1,27 @@
 import time
 from selenium import webdriver
+import re
+from selenium.webdriver.chrome.options import Options
 
 
 def initBrowser():
     chromeDriver="C:/webdriver/chromedriver"
-    browser = webdriver.Chrome(chromeDriver)
+    options = Options()
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    browser = webdriver.Chrome(chromeDriver, chrome_options=options)
 
     return browser
 
 def episodeIterator(anime, browser):
     parsedName = anime.replace(" ","-")
     ep = 1
-    browser.get(f'http://vidstreaming.io/videos/{parsedName}-episode-{ep}') 
+
+    try:
+       browser.get(f'http://vidstreaming.io/videos/{parsedName}-episode-{ep}') 
+    except:
+        print('title not found')
+    
     time.sleep(3)
 
     list = []
@@ -31,19 +41,21 @@ def episodeIterator(anime, browser):
         
     return episodes
 
-# links = browser.find_element_by_xpath('/html/body/div[1]/section/div[1]/div[5]/div/div[1]/div[1]/div[1]/iframe')
-# print(links.get_attribute("src"))
-
-
 if __name__ == "__main__":
     browser = initBrowser()
-    targets = episodeIterator("boku no hero academia", browser)
+    targets = episodeIterator("ReZero kara Hajimeru Isekai Seikatsu", browser)
     print(targets)
     srcs = []
     for x in targets:
         browser.get(x.get('link'))
-        title = browser.find_element_by_xpath('/html/body/div[1]/section/div[1]/div[5]/div/div[1]/h1')
-        links = browser.find_element_by_xpath('/html/body/div[1]/section/div[1]/div[5]/div/div[1]/div[1]/div[1]/iframe')
+
+        try:
+            title = browser.find_element_by_xpath('/html/body/div[1]/section/div[1]/div[5]/div/div[1]/h1')
+            links = browser.find_element_by_xpath('/html/body/div[1]/section/div[1]/div[5]/div/div[1]/div[1]/div[1]/iframe')
+        except:
+            print("element not found")
+            break 
+
         srcs.append({
             'title': x.get('title'),
             'episode': x.get('ep'),

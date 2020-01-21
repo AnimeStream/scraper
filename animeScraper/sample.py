@@ -1,0 +1,101 @@
+data = [{
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 1,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzEzNjQ=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=eyJlcyI6Ii4uXC91cGxvYWRcL3N1YlwvNDkxOVwvMVwvZXMudnR0In0=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 2,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzEzNzE=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 3,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzE0NTU=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=eyJlcyI6Ii4uXC91cGxvYWRcL3N1YlwvNDkxOVwvM1wvZXMudnR0In0=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 4,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzE1MzI=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=eyJlcyI6Ii4uXC91cGxvYWRcL3N1YlwvNDkxOVwvNFwvZXMudnR0In0=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 5,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzE2ODY=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=eyJlcyI6Ii4uXC91cGxvYWRcL3N1YlwvNDkxOVwvNVwvZXMudnR0In0=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 6,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzE2ODg=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=eyJlcyI6Ii4uXC91cGxvYWRcL3N1YlwvNDkxOVwvNlwvZXMudnR0In0=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 7,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzE3NzM=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=eyJlcyI6Ii4uXC91cGxvYWRcL3N1YlwvNDkxOVwvN1wvZXMudnR0In0=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 8,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzE4NTI=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=eyJlcyI6Ii4uXC91cGxvYWRcL3N1YlwvNDkxOVwvOFwvZXMudnR0In0=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 9,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzE5MzM=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 10,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzIwMTI=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 11,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzIxMjE=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 12,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzIyNjQ=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 13,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzIzNjc=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 14,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzI0MTg=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 15,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzI1OTQ=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 16,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzI2ODc=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 17,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzMxMTE=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 18,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzMzODA=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 19,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzM3MDc=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 20,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzM5NDU=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 21,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzQyMzM=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 22,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzQ3MzA=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 23,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzQ5MTQ=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 24,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzU0NTE=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}, {
+    'title': 'ReZero-kara-Hajimeru-Isekai-Seikatsu',
+    'episode': 25,
+    'link': 'http://vidstreaming.io/streaming.php?id=NzU5OTQ=&title=Re%3AZero+kara+Hajimeru+Isekai+Seikatsu&typesub=SUB&sub=W10=&cover=Y292ZXIvcmV6ZXJvLWthcmEtaGFqaW1lcnUtaXNla2FpLXNlaWthdHN1LmpwZw=='
+}]
