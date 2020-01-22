@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 
 
 def initBrowser():
-    chromeDriver="C:/webdriver/chromedriver"
+    chromeDriver="C:/Program Files/webdriver/chromedriver"
     options = Options()
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
@@ -41,9 +41,9 @@ def episodeIterator(anime, browser):
         
     return episodes
 
-if __name__ == "__main__":
+def crawl(anime):
     browser = initBrowser()
-    targets = episodeIterator("ReZero kara Hajimeru Isekai Seikatsu", browser)
+    targets = episodeIterator(anime, browser)
     print(targets)
     srcs = []
     for x in targets:
@@ -66,4 +66,7 @@ if __name__ == "__main__":
 
     print(srcs)
 
+    
 
+if __name__ == "__main__":
+    crawl('black clover tv')
